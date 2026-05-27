@@ -42,14 +42,14 @@ Educational content on YouTube is a goldmine, but thousands of life-changing lec
 └── 📁 data_pipeline/   # Temporary storage for processing audios
 
 👥 The Lexis-AI Crew
-Member 1: Rudrakant Mishra(@rudrakant20250043-lgtm) — Project Manager & Documentation
+Member 1:[ Rudrakant Mishra](https://github.com/rudrakant20250043-lgtm) — Project Manager & Documentation
 
-Member 2: Vinsh Kushwaha — Audio Extraction & Preprocessing
+Member 2: [Vinsh Kushwaha](https://github.com/vinsh111) — Audio Extraction & Preprocessing
 
-Member 3: Jeel Amrutiya — Signal Processing
+Member 3: [Jeel Amrutiya](https://github.com/jeelamrutiya08) — Signal Processing
 
-Member 4: Harshit Repswal — AI / Machine Learning Engineer
+Member 4:[ Harshit Repswal](https://github.com/HarshitRepswal) — AI / Machine Learning Engineer
 
-Member 5: Manvi Singh — Frontend / UI Developer
+Member 5: [Manvi Singh](https://github.com/Swirlyswan248) — Frontend / UI Developer
 
-Member 6: Lalit Badera — Backend + Integration
+Member 6: [Lalit Badera](https://github.com/lalitbadera001) — Backend + Integration
