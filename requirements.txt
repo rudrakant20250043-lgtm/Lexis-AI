@@ -1,0 +1,6 @@
+yt-dlp
+ffmpeg-python
+deepfilternet
+streamlit
+fastapi
+uvicorn
