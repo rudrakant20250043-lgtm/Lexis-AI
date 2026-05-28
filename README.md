@@ -1,9 +1,15 @@
-# <p align="center"><img src="https://path-to-your-generated-header-gif.gif" alt="Lexis-AI Animated Header" width="75%"></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Lexis-AI&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20Neural%20Audio%20Restoration%20Engine&descAlignY=51&descSize=20" width="100%"></p>
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=650&lines=Turning+Noise+into+Knowledge...;With+Studio-Grade+Neural+Clarity." alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=650&lines=Turning+Noise+into+Knowledge...;With+Studio-Grade+Neural+Clarity.;Silence+the+Chaos.+Amplify+the+Mentor." alt="Typing Tagline" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Engine-DeepFilterNet-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ---
