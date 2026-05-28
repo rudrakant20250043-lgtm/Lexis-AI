@@ -21,10 +21,16 @@ Educational content on YouTube is a goldmine, but thousands of life-changing lec
 > **Our Mission:** Silence the chaos, amplify the mentor. 🚀
 
 ---
+## 🔥 Performance: Before vs After
 
+| Feature | Raw YouTube Audio | Lexis-AI Processed |
+| :--- | :--- | :--- |
+| **Background Noise** | 🔊 Static, Fans, Hiss | 🔇 Crystal Silent |
+| **Voice Quality** | 🌫️ Muffled & Distant | 💎 Sharp & Proximal |
+| **Clarity** | 📉 Hard to follow | 📈 Studio Grade |
 ## ✨ The Solution: Neural Reconstruction
 **Lexis-AI** isn't just a filter; it's a high-performance restoration engine. We use **Deep Neural Networks (DNN)** to surgically remove noise while reconstructing lost speech harmonics.
-
+---
 ### 🔄 The Workflow
 1. **Harvest:** Lossless audio extraction from YouTube via `yt-dlp`.
 2. **De-Noise:** Neural Signal Processing using `DeepFilterNet`.
