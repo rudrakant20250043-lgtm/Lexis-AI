@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Lexis-AI&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20Neural%20Audio%20Restoration%20Engine&descAlignY=51&descSize=20" width="100%"></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Lexis-AI&fontSize=80&animation=fadeIn&fontAlignY=38&desc=The%20Neural%20Audio%20Restoration%20Engine&descAlignY=65&descSize=20" width="100%"></p>
 
 <p align="center">
   <a href="#">
@@ -13,18 +13,12 @@
 </p>
 
 ---
-# 🎙️ Lexis-AI: The Neural Audio Restoration Engine
-> **"Turning Noise into Knowledge with Studio-Grade Neural Clarity."**
-
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blueviolet?style=for-the-badge&logo=python)](https://www.python.org/)
-[![AI Engine: DeepFilterNet](https://img.shields.io/badge/AI_Engine-DeepFilterNet-FF6F61?style=for-the-badge&logo=pytorch)](https://github.com/Rikorose/DeepFilterNet)
-[![Framework: FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-
----
 
 ## 🌩️ The Problem: "The Audio Barrier"
-Educational content on YouTube is a goldmine, but thousands of life-changing lectures are virtually unwatchable due to **aggressive background noise, echo, and poor equipment.** * **The Reality:** 65% of students drop off from videos with poor audio quality.
-* **Our Mission:** Silence the chaos, amplify the mentor. 🚀
+Educational content on YouTube is a goldmine, but thousands of life-changing lectures are virtually unwatchable due to **aggressive background noise, echo, and poor equipment.** > **The Reality:** 65% of students drop off from videos with poor audio quality.
+> **Our Mission:** Silence the chaos, amplify the mentor. 🚀
+
+---
 
 ## ✨ The Solution: Neural Reconstruction
 **Lexis-AI** isn't just a filter; it's a high-performance restoration engine. We use **Deep Neural Networks (DNN)** to surgically remove noise while reconstructing lost speech harmonics.
@@ -49,8 +43,6 @@ Educational content on YouTube is a goldmine, but thousands of life-changing lec
 
 ---
 
----
-
 ## 📂 System Architecture (Under the Hood)
 
 ```mermaid
@@ -61,6 +53,10 @@ graph LR
     D --> E(FFmpeg Post-Processing)
     E --> F[Streamlit Dashboard]
     F --> G((High-Fidelity Audio))
+    
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style D fill:#bbf,stroke:#333,stroke-width:4px
+    style G fill:#00ff00,stroke:#333,stroke-width:2px
 ```
 ## 👥 The Lexis-AI Engineering Crew
 
