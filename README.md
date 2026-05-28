@@ -51,9 +51,9 @@ graph LR
 
 | Profile | Name | Role |
 | :--- | :--- | :--- |
-| <img src="https://github.com/rudrakant20250043-lgtm.png" width="50"> | **Rudrakant Mishra** | 🚀 Lead & Documentation |
+| <img src="https://github.com/rudrakant20250043-lgtm.png" width="50"> | **Rudrakant Mishra** | 🚀Project Coordination & Core Logic |
 | <img src="https://github.com/vinsh111.png" width="50"> | **Vinsh Kushwaha** | 🛠️ Audio Extraction |
 | <img src="https://github.com/jeelamrutiya08.png" width="50"> | **Jeel Amrutiya** | 📡 Signal Processing |
-| <img src="https://github.com/HarshitRepswal.png" width="50"> | **Harshit Repswal** | 🧠 AI/ML Engineer |
-| <img src="https://github.com/Swirlyswan248.png" width="50"> | **Manvi Singh** | 🎨 Frontend / UI |
-| <img src="https://github.com/lalitbadera001.png" width="50"> | **Lalit Badera** | ⚙️ Backend + Integration |
+| <img src="https://github.com/HarshitRepswal.png" width="50"> | **Harshit Repswal** | 🧠 Model Integration (DeepFilterNet) |
+| <img src="https://github.com/Swirlyswan248.png" width="50"> | **Manvi Singh** | 🎨 Frontend & UI Design (Streamlit)|
+| <img src="https://github.com/lalitbadera001.png" width="50"> | **Lalit Badera** | ⚙️ API Setup & Integration (FastAPI) |
