@@ -1,14 +1,16 @@
-<p text align="center"><img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Lexis-AI&fontSize=80&animation=fadeIn&fontAlignY=38&desc=The%20Neural%20Audio%20Restoration%20Engine&descAlignY=65&descSize=20" width="100%"></p>
+# 🎙️ Lexis-AI: The Neural Audio Restoration Engine
 
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=650&lines=Turning+Noise+into+Knowledge...;With+Studio-Grade+Neural+Clarity.;Silence+the+Chaos.+Amplify+the+Mentor." alt="Typing Tagline" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Turning+Noise+into+Knowledge...;Studio-Grade+Neural+Clarity." alt="Typing Tagline" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Engine-DeepFilterNet-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <b>Silence the Chaos. Amplify the Mentor.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Engine-DeepFilterNet-red?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
@@ -36,14 +38,13 @@ Educational content on YouTube is a goldmine, but thousands of life-changing lec
 | Layer | Technology | Engineering Role |
 | :--- | :--- | :--- |
 | **Data Extraction** | `yt-dlp` + `FFmpeg` | Asynchronous Audio Harvesting |
-| **AI Core** | `DeepFilterNet` (SOTA) | Neural Signal Processing & Denoising |
-| **Backend Logic** | `FastAPI` + `Python 3.10` | High-Concurrency API Management |
-| **User Interface** | `Streamlit` | Minimalist UX for Rapid Interaction |
-| **Data Management** | `PostgreSQL` | Secure Metadata & Processing Logs |
+| **AI Core** | `DeepFilterNet` | Neural Signal Processing |
+| **Backend Logic** | `FastAPI` + `Python` | API Management |
+| **User Interface** | `Streamlit` | Minimalist UX |
 
 ---
 
-## 📂 System Architecture (Under the Hood)
+## 📂 System Architecture
 
 ```mermaid
 graph LR
@@ -53,11 +54,6 @@ graph LR
     D --> E(FFmpeg Post-Processing)
     E --> F[Streamlit Dashboard]
     F --> G((High-Fidelity Audio))
-    
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style D fill:#bbf,stroke:#333,stroke-width:4px
-    style G fill:#00ff00,stroke:#333,stroke-width:2px
-```
 ## 👥 The Lexis-AI Engineering Crew
 
 | Profile | Name | Role |
