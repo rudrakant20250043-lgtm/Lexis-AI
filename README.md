@@ -17,7 +17,8 @@
 </p>
 
 ---
----
+> [!IMPORTANT]
+> **Motivation:** We built Lexis-AI because poor audio quality shouldn't be a barrier to high-quality education.
 
 ## 📖 Background & Motivation
 The development of **Lexis-AI** was driven by a critical observation in the digital education landscape. While platforms like YouTube host a goldmine of information, the **quality of audio** remains the biggest barrier to effective learning.
@@ -38,10 +39,23 @@ Educational content on YouTube is a goldmine, but thousands of life-changing lec
 | :--- | :--- | :--- |
 | **Background Noise** | 🔊 Static, Fans, Hiss | 🔇 Crystal Silent |
 | **Voice Quality** | 🌫️ Muffled & Distant | 💎 Sharp & Proximal |
-| **Clarity** | 📉 Hard to follow | 📈 Studio Grade |
+| **Clarity** | 📉 Hard to follow | 📈 Studio Grade | 
+
+## ⚙️ Core Processing Status
+`Extracting` ■■■■■■■■□□□□ 70%
+`Denoising`  ■■■■□□□□□□□□ 35%
+`Finalizing` □□□□□□□□□□□□ 0%
+
+> [!TIP]
+> Our **DeepFilterNet** model is currently optimizing for 48kHz studio-grade output.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF6347&center=true&vCenter=true&width=500&lines=Initializing+DeepFilterNet+V2...;Analyzing+Audio+Harmonics...;Removing+Environmental+Noise...;Reconstructing+Speech+Clarity...;Studio+Grade+Audio+Ready!" alt="Typing Animation" />
+</p>
+
 ## ✨ The Solution: Neural Reconstruction
 **Lexis-AI** isn't just a filter; it's a high-performance restoration engine. We use **Deep Neural Networks (DNN)** to surgically remove noise while reconstructing lost speech harmonics.
 ---
+
 ### 🔄 The Workflow
 1. **Harvest:** Lossless audio extraction from YouTube via `yt-dlp`.
 2. **De-Noise:** Neural Signal Processing using `DeepFilterNet`.
@@ -76,7 +90,7 @@ graph LR
 
 | Profile | Name | Role |
 | :--- | :--- | :--- |
-| <img src="https://github.com/rudrakant20250043-lgtm.png" width="50"> | **Rudrakant Mishra** | 🚀Project Coordination & Core Logic |
+| <img src="https://github.com/rudrakant20250043-lgtm.png" width="50"> | [Rudrakant Mishra](https://github.com/rudrakant20250043-lgtm) | 🚀Project Coordination & Core Logic |
 | <img src="https://github.com/vinsh111.png" width="50"> | **Vinsh Kushwaha** | 🛠️ Audio Extraction |
 | <img src="https://github.com/jeelamrutiya08.png" width="50"> | **Jeel Amrutiya** | 📡 Signal Processing |
 | <img src="https://github.com/HarshitRepswal.png" width="50"> | **Harshit Repswal** | 🧠 Model Integration (DeepFilterNet) |
