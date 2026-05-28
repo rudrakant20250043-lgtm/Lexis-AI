@@ -1,7 +1,7 @@
 # 🎙️ Lexis-AI: The Neural Audio Restoration Engine
 > **Neural Audio Restoration Engine for Digital Education**
 
-[![Technical Report](https://img.shields.io/badge/View-Project%20Report-blueviolet?style=for-the-badge&logo=googledocs)](./Lexis-Al-Neural-Audio-Restoration-Engine.pdf)
+[![Technical Report](https://img.shields.io/badge/View-Project%20Report-blueviolet?style=for-the-badge&logo=googledocs)](./Lexis-AI-Neural-Audio-Restoration-Engine%20(1).pdf)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Turning+Noise+into+Knowledge...;Studio-Grade+Neural+Clarity." alt="Typing Tagline" />
 </p>
