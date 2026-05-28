@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Lexis-AI&fontSize=80&animation=fadeIn&fontAlignY=38&desc=The%20Neural%20Audio%20Restoration%20Engine&descAlignY=65&descSize=20" width="100%"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Lexis-AI&fontSize=80&animation=fadeIn&fontAlignY=38&desc=The%20Neural%20Audio%20Restoration%20Engine&descAlignY=65&descSize=20" width="100%"></p>
 
 <p align="center">
   <a href="#">
