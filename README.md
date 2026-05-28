@@ -1,55 +1,59 @@
-# Lexis-AI
-Bad audio shouldn't stop great learning. Lexis-AI is a deep-learning powerhouse that strips away background hiss, hum, and chaos from YouTube videos—delivering studio-grade clarity to every student, everywhere. Silence the noise, amplify the knowledge. 🚀🔥
+# 🎙️ Lexis-AI: The Neural Audio Restoration Engine
+> **"Turning Noise into Knowledge with Studio-Grade Neural Clarity."**
 
-# 🎙️ Lexis-AI: The Future of Auditory Learning
-> **"Turning Noise into Knowledge with Neural Clarity."**
-
----
-
-## 🌩️ The Problem
-Educational content on YouTube is a goldmine, but thousands of life-changing lectures are virtually unwatchable due to **aggressive background noise, echo, and poor equipment.** Students shouldn't have to struggle to hear their mentors.
-
-## ✨ Our Solution
-**Lexis-AI** is a high-performance audio restoration engine. We don't just "filter" noise; we use **Deep Neural Networks** to reconstruct human speech from distorted environments. 
-- **Input:** A noisy YouTube URL.
-- **Output:** A studio-grade, high-fidelity audio lecture.
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blueviolet?style=for-the-badge&logo=python)](https://www.python.org/)
+[![AI Engine: DeepFilterNet](https://img.shields.io/badge/AI_Engine-DeepFilterNet-FF6F61?style=for-the-badge&logo=pytorch)](https://github.com/Rikorose/DeepFilterNet)
+[![Framework: FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 
 ---
 
-## 🛠️ The Tech Stack (High-Performance Core)
-| Layer | Technology | Purpose |
+## 🌩️ The Problem: "The Audio Barrier"
+Educational content on YouTube is a goldmine, but thousands of life-changing lectures are virtually unwatchable due to **aggressive background noise, echo, and poor equipment.** * **The Reality:** 65% of students drop off from videos with poor audio quality.
+* **Our Mission:** Silence the chaos, amplify the mentor. 🚀
+
+## ✨ The Solution: Neural Reconstruction
+**Lexis-AI** isn't just a filter; it's a high-performance restoration engine. We use **Deep Neural Networks (DNN)** to surgically remove noise while reconstructing lost speech harmonics.
+
+### 🔄 The Workflow
+1. **Harvest:** Lossless audio extraction from YouTube via `yt-dlp`.
+2. **De-Noise:** Neural Signal Processing using `DeepFilterNet`.
+3. **Enhance:** Dynamic gain adjustment for peak clarity.
+4. **Deliver:** Streamlined high-fidelity audio for the end-user.
+
+---
+
+## 🛠️ Tech Stack & Neural Architecture
+
+| Layer | Technology | Engineering Role |
 | :--- | :--- | :--- |
-| **Extraction** | `yt-dlp` + `FFmpeg` | Lossless audio harvesting from YouTube. |
-| **AI Engine** | `DeepFilterNet` | SOTA Neural Signal Processing for noise removal. |
-| **Logic** | `Python 3.10` | The glue holding the neural architecture together. |
-| **Backend** | `FastAPI` | Asynchronous API for rapid processing. |
-| **Interface** | `Streamlit` | Minimalist dashboard for student interaction. |
+| **Data Extraction** | `yt-dlp` + `FFmpeg` | Asynchronous Audio Harvesting |
+| **AI Core** | `DeepFilterNet` (SOTA) | Neural Signal Processing & Denoising |
+| **Backend Logic** | `FastAPI` + `Python 3.10` | High-Concurrency API Management |
+| **User Interface** | `Streamlit` | Minimalist UX for Rapid Interaction |
+| **Data Management** | `PostgreSQL` | Secure Metadata & Processing Logs |
 
 ---
 
-## 🎯 Current Mission: Live Demo Target
-* **Target Video:** [https://www.youtube.com/watch?v=1OxKLppXgXA]
-* **Current Goal:** Extracting raw signal and benchmarking AI noise reduction.
+## 📂 System Architecture (Under the Hood)
 
----
 
-## 📂 Project Architecture
-/Lexis-AI
-│
-├── 📁 core_backend/    # Automated YouTube-to-WAV pipeline
-├── 📁 ai_engine/       # DeepFilterNet integration & Model weights
-├── 📁 web_interface/   # Streamlit UI & User Experience
-└── 📁 data_pipeline/   # Temporary storage for processing audios
+```mermaid
+graph LR
+    A[YouTube URL] --> B(yt-dlp Extraction)
+    B --> C{FastAPI Backend}
+    C --> D[DeepFilterNet AI Engine]
+    D --> E(FFmpeg Post-Processing)
+    E --> F[Streamlit Dashboard]
+    F --> G((High-Fidelity Audio))
 
-👥 The Lexis-AI Crew
-Member 1:[ Rudrakant Mishra](https://github.com/rudrakant20250043-lgtm) — Project Manager & Documentation
 
-Member 2: [Vinsh Kushwaha](https://github.com/vinsh111) — Audio Extraction & Preprocessing
+## 👥 The Lexis-AI Engineering Crew
 
-Member 3: [Jeel Amrutiya](https://github.com/jeelamrutiya08) — Signal Processing
-
-Member 4:[ Harshit Repswal](https://github.com/HarshitRepswal) — AI / Machine Learning Engineer
-
-Member 5: [Manvi Singh](https://github.com/Swirlyswan248) — Frontend / UI Developer
-
-Member 6: [Lalit Badera](https://github.com/lalitbadera001) — Backend + Integration
+| Profile | Name | Role |
+| :--- | :--- | :--- |
+| <img src="https://github.com/rudrakant20250043-lgtm.png" width="50"> | **Rudrakant Mishra** | 🚀 Lead & Documentation |
+| <img src="https://github.com/vinsh111.png" width="50"> | **Vinsh Kushwaha** | 🛠️ Audio Extraction |
+| <img src="https://github.com/jeelamrutiya08.png" width="50"> | **Jeel Amrutiya** | 📡 Signal Processing |
+| <img src="https://github.com/HarshitRepswal.png" width="50"> | **Harshit Repswal** | 🧠 AI/ML Engineer |
+| <img src="https://github.com/Swirlyswan248.png" width="50"> | **Manvi Singh** | 🎨 Frontend / UI |
+| <img src="https://github.com/lalitbadera001.png" width="50"> | **Lalit Badera** | ⚙️ Backend + Integration |
