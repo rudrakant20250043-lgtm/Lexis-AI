@@ -6,109 +6,63 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python&logoColor=white" alt="Python Version" />
-  <img src="https://img.shields.io/badge/AI_Engine-DEEPFILTERNET-red?style=flat-square&logo=neural&logoColor=white" alt="AI Engine" />
-  <img src="https://img.shields.io/badge/Framework-FASTAPI-20C20E?style=flat-square&logo=fastapi&logoColor=white" alt="Framework" />
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance" />
-</p>
+---
+# 🎙️ Lexis-AI: The Neural Audio Restoration Engine
+> **"Turning Noise into Knowledge with Studio-Grade Neural Clarity."**
+
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blueviolet?style=for-the-badge&logo=python)](https://www.python.org/)
+[![AI Engine: DeepFilterNet](https://img.shields.io/badge/AI_Engine-DeepFilterNet-FF6F61?style=for-the-badge&logo=pytorch)](https://github.com/Rikorose/DeepFilterNet)
+[![Framework: FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/problem.svg" width="30"> The Problem: "The Audio Barrier"
+## 🌩️ The Problem: "The Audio Barrier"
+Educational content on YouTube is a goldmine, but thousands of life-changing lectures are virtually unwatchable due to **aggressive background noise, echo, and poor equipment.** * **The Reality:** 65% of students drop off from videos with poor audio quality.
+* **Our Mission:** Silence the chaos, amplify the mentor. 🚀
 
-Educational content on YouTube is a goldmine, but thousands of life-changing lectures are virtually unwatchable due to **aggressive background noise**, **echo**, and **poor equipment**.
+## ✨ The Solution: Neural Reconstruction
+**Lexis-AI** isn't just a filter; it's a high-performance restoration engine. We use **Deep Neural Networks (DNN)** to surgically remove noise while reconstructing lost speech harmonics.
 
-> * **The Reality:** 65% of students drop off from videos with poor audio quality.
-
-#### 🎯 Our Mission: Silence the chaos, amplify the mentor. 🚀
-
----
-
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/solution.svg" width="30"> The Solution: Neural Reconstruction
-
-Lexis-AI isn't just a filter; it's a high-performance restoration engine. We use **Deep Neural Networks (DNN)** to surgically remove noise while reconstructing lost speech harmonics.
-
----
-
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/workflow.svg" width="30"> The Workflow
-
-<div align="left">
-  1.  <b>Harvest:</b> Lossless audio extraction from YouTube via `yt-dlp`.
-  2.  <b>De-Noise:</b> Neural Signal Processing using `DeepFilterNet`.
-  3.  <b>Enhance:</b> Dynamic gain adjustment for peak clarity.
-  4.  <b>Deliver:</b> Streamlined high-fidelity audio for the end-user.
-</div>
+### 🔄 The Workflow
+1. **Harvest:** Lossless audio extraction from YouTube via `yt-dlp`.
+2. **De-Noise:** Neural Signal Processing using `DeepFilterNet`.
+3. **Enhance:** Dynamic gain adjustment for peak clarity.
+4. **Deliver:** Streamlined high-fidelity audio for the end-user.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/tech-stack.svg" width="30"> Tech Stack & Neural Architecture
+## 🛠️ Tech Stack & Neural Architecture
 
 | Layer | Technology | Engineering Role |
 | :--- | :--- | :--- |
-| **Data Extraction** | <p align="center"><img src="https://img.shields.io/badge/-yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" width="100"><br><img src="https://img.shields.io/badge/-FFmpeg-007ACC?style=flat-square&logo=ffmpeg&logoColor=white" width="100"></p> | Asynchronous Audio Harvesting |
-| **AI Core** | <p align="center"><img src="https://img.shields.io/badge/-DeepFilterNet_(SOTA)-FF5733?style=flat-square&logo=brain&logoColor=white" width="150"></p> | Neural Signal Processing & Denoising |
-| **Backend Logic** | <p align="center"><img src="https://img.shields.io/badge/-FastAPI-20C20E?style=flat-square&logo=fastapi&logoColor=white" width="110"><br><img src="https://img.shields.io/badge/-Python_3.10-3776AB?style=flat-square&logo=python&logoColor=white" width="110"></p> | High-Concurrency API Management |
-| **User Interface** | <p align="center"><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" width="110"></p> | Minimalist UX for Rapid Interaction |
-| **Data Management**| <p align="center"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" width="120"></p> | Secure Metadata & Processing Logs |
+| **Data Extraction** | `yt-dlp` + `FFmpeg` | Asynchronous Audio Harvesting |
+| **AI Core** | `DeepFilterNet` (SOTA) | Neural Signal Processing & Denoising |
+| **Backend Logic** | `FastAPI` + `Python 3.10` | High-Concurrency API Management |
+| **User Interface** | `Streamlit` | Minimalist UX for Rapid Interaction |
+| **Data Management** | `PostgreSQL` | Secure Metadata & Processing Logs |
 
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/architecture.svg" width="30"> System Architecture (Under the Hood)
-
-*(Self-correcting and enhancing original workflow diagram)*
-
-Bhai, ye static flow ko dynamic visualization mein change karte hain. This visual flow actually pulses:
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/SYSTEM-FLOW-visualisation?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1F1F1F&color=20B2AA" alt="Architecture Flow Viz" />
-  </a>
-</p>
-
-<p align="center"><img src="https://path-to-your-new-animated-architecture.gif" alt="Pulsing Architecture Diagram" width="85%"></p>
-
-The data flows from left to right, dynamically highlighting which stage is active.
-
 ---
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/team.svg" width="30"> The Lexis-AI Engineering Crew
+## 📂 System Architecture (Under the Hood)
 
-Holographic style crew cards with hover effect animation simulation (requires custom SVG/HTML and can be complex, but let's try a visual approach):
+```mermaid
+graph LR
+    A[YouTube URL] --> B(yt-dlp Extraction)
+    B --> C{FastAPI Backend}
+    C --> D[DeepFilterNet AI Engine]
+    D --> E(FFmpeg Post-Processing)
+    E --> F[Streamlit Dashboard]
+    F --> G((High-Fidelity Audio))
+```
+## 👥 The Lexis-AI Engineering Crew
 
-<table align="center" style="border-collapse: collapse; width: 85%; border: none;">
-  <tr>
-    <td align="center" width="16%" style="border: none; padding: 10px;">
-      <p align="center"><img src="https://github.com/your-github-username.png?size=70" width="70" style="border-radius: 50%; box-shadow: 0 0 10px rgba(32, 178, 170, 0.7);"></p>
-      <br>
-      <p align="center">**Rudrakant Mishra**<br>🚀 Coordinator</p>
-    </td>
-    <td align="center" width="16%" style="border: none; padding: 10px;">
-      <p align="center"><img src="https://github.com/your-github-username.png?size=70" width="70" style="border-radius: 50%; box-shadow: 0 0 5px rgba(255, 255, 255, 0.3);"></p>
-      <br>
-      <p align="center">**Vinsh Kushwaha**<br>🛠️ Extraction</p>
-    </td>
-    <td align="center" width="16%" style="border: none; padding: 10px;">
-      <p align="center"><img src="https://github.com/your-github-username.png?size=70" width="70" style="border-radius: 50%; box-shadow: 0 0 5px rgba(255, 255, 255, 0.3);"></p>
-      <br>
-      <p align="center">**Jeel Amrutiya**<br>📡 Signal Proc.</p>
-    </td>
-    <td align="center" width="16%" style="border: none; padding: 10px;">
-      <p align="center"><img src="https://github.com/your-github-username.png?size=70" width="70" style="border-radius: 50%; box-shadow: 0 0 10px rgba(255, 87, 51, 0.7);"></p>
-      <br>
-      <p align="center">**Harshit Repswal**<br>🧠 Model Int.</p>
-    </td>
-    <td align="center" width="16%" style="border: none; padding: 10px;">
-      <p align="center"><img src="https://github.com/your-github-username.png?size=70" width="70" style="border-radius: 50%; box-shadow: 0 0 10px rgba(255, 75, 75, 0.7);"></p>
-      <br>
-      <p align="center">**Manvi Singh**<br>🎨 UI Design</p>
-    </td>
-    <td align="center" width="16%" style="border: none; padding: 10px;">
-      <p align="center"><img src="https://github.com/your-github-username.png?size=70" width="70" style="border-radius: 50%; box-shadow: 0 0 10px rgba(32, 194, 14, 0.7);"></p>
-      <br>
-      <p align="center">**Lalit Badera**<br>⚙️ API Setup</p>
-    </td>
-  </tr>
-</table>
-
----
+| Profile | Name | Role |
+| :--- | :--- | :--- |
+| <img src="https://github.com/rudrakant20250043-lgtm.png" width="50"> | **Rudrakant Mishra** | 🚀Project Coordination & Core Logic |
+| <img src="https://github.com/vinsh111.png" width="50"> | **Vinsh Kushwaha** | 🛠️ Audio Extraction |
+| <img src="https://github.com/jeelamrutiya08.png" width="50"> | **Jeel Amrutiya** | 📡 Signal Processing |
+| <img src="https://github.com/HarshitRepswal.png" width="50"> | **Harshit Repswal** | 🧠 Model Integration (DeepFilterNet) |
+| <img src="https://github.com/Swirlyswan248.png" width="50"> | **Manvi Singh** | 🎨 Frontend & UI Design (Streamlit)|
+| <img src="https://github.com/lalitbadera001.png" width="50"> | **Lalit Badera** | ⚙️ API Setup & Integration (FastAPI) |
