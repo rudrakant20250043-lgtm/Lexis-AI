@@ -34,8 +34,9 @@ Educational content on YouTube is a goldmine, but thousands of life-changing lec
 
 ---
 
-## 📂 System Architecture (Under the Hood)
+---
 
+## 📂 System Architecture (Under the Hood)
 
 ```mermaid
 graph LR
@@ -45,8 +46,6 @@ graph LR
     D --> E(FFmpeg Post-Processing)
     E --> F[Streamlit Dashboard]
     F --> G((High-Fidelity Audio))
-
-
 ## 👥 The Lexis-AI Engineering Crew
 
 | Profile | Name | Role |
