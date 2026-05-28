@@ -17,7 +17,16 @@
 </p>
 
 ---
+---
 
+## 📖 Background & Motivation
+The development of **Lexis-AI** was driven by a critical observation in the digital education landscape. While platforms like YouTube host a goldmine of information, the **quality of audio** remains the biggest barrier to effective learning.
+
+* **Cognitive Load:** Studies show that background noise increases the brain's processing effort, leading to faster student fatigue.
+* **Environmental Limits:** Most educational content is recorded in non-studio environments, resulting in persistent hiss and room echo.
+* **Accessibility Gap:** Our goal is to ensure that a student's environment never limits their access to clear, high-quality education.
+
+---
 ## 🌩️ The Problem: "The Audio Barrier"
 Educational content on YouTube is a goldmine, but thousands of life-changing lectures are virtually unwatchable due to **aggressive background noise, echo, and poor equipment.** > **The Reality:** 65% of students drop off from videos with poor audio quality.
 > **Our Mission:** Silence the chaos, amplify the mentor. 🚀
