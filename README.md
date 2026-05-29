@@ -96,3 +96,9 @@ graph LR
 | <img src="https://github.com/HarshitRepswal.png" width="50"> | **Harshit Repswal** | 🧠 Model Integration (DeepFilterNet) |
 | <img src="https://github.com/Swirlyswan248.png" width="50"> | **Manvi Singh** | 🎨 Frontend & UI Design (Streamlit)|
 | <img src="https://github.com/lalitbadera001.png" width="50"> | **Lalit Badera** | ⚙️ API Setup & Integration (FastAPI) |
+---
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
+  <img src="https://forthebadge.com/images/badges/open-source.svg" />
+</p>
