@@ -1,0 +1,23 @@
+import librosa
+import librosa.display
+import matplotlib.pyplot as plt
+
+# Load files
+original, sr = librosa.load("output.wav", sr=16000)
+cleaned, sr = librosa.load("cleaned_audio.wav", sr=16000)
+
+# Create plots
+plt.figure(figsize=(14, 8))
+
+# Original waveform
+plt.subplot(2,1,1)
+librosa.display.waveshow(original, sr=sr)
+plt.title("Original Noisy Audio")
+
+# Cleaned waveform
+plt.subplot(2,1,2)
+librosa.display.waveshow(cleaned, sr=sr)
+plt.title("Cleaned Audio")
+
+plt.tight_layout()
+plt.show()
