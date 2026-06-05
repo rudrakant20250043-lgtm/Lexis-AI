@@ -5,7 +5,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Turning+Noise+into+Knowledge...;Studio-Grade+Neural+Clarity." alt="Typing Tagline" />
 </p>
+## 🚀 Live Demo
+You can try the live web application here: 
+👉 **[Lexis-AI Live Web App](https://lexis-ai-hxvk8uvvm7ak3ufjxtvedq.streamlit.app)**
 
+---
 <p align="center">
   <b>Silence the Chaos. Amplify the Mentor.</b>
 </p>
