@@ -1,6 +1,7 @@
-yt-dlp
-ffmpeg-python
-deepfilternet
+flask
+flask-cors
+pytube
 streamlit
-fastapi
-uvicorn
+librosa
+soundfile
+numpy
