@@ -7,7 +7,7 @@
 </p>
 ## 🚀 Live Demo
 You can try the live web application here: 
-👉 **[Lexis-AI Live Web App](https://lexis-ai-hxvk8uvvm7ak3ufjxtvedq.streamlit.app)**
+👉 **[Lexis-AI Live Web App](https://lexis-ai-hxvk8uvvm7ak3ufjxtvedq.streamlit.app/)**
 
 ---
 <p align="center">
