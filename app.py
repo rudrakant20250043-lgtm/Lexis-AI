@@ -1,14 +1,22 @@
 import streamlit as st
 import time
 import os
+import sys
 
-# ---- BACKEND CONNECTION ----
+# ---- CRITICAL PATH FIX FOR STREAMLIT CLOUD ----
+# Ye line current directory ko system path mein add karegi
+current_dir = os.path.dirname(os.path.abspath(__file__))
+if current_dir not in sys.path:
+    sys.path.append(current_dir)
+
 try:
-    # Tumhari backend_model.py file se restore_audio function import ho raha hai
+    # Ab ye bina kisi error ke backend_model ko dhoond lega
+    import backend_model
     from backend_model import restore_audio
     MODEL_READY = True
-except ImportError:
+except Exception as e:
     MODEL_READY = False
+    error_msg = str(e)
 
 # Page Config
 st.set_page_config(page_title="Lexis AI - Neural Restoration", layout="centered", initial_sidebar_state="collapsed")
