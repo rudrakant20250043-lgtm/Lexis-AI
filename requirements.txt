@@ -1,7 +1,7 @@
-flask
-flask-cors
-pytube
 streamlit
 librosa
 soundfile
 numpy
+torch
+torchaudio
+pytube
