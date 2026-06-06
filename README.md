@@ -104,7 +104,7 @@ graph LR
 
 | Profile | Name | Role |
 | :--- | :--- | :--- |
-| <img src="https://github.com/rudrakant20250043-lgtm.png" width="50"> | [Rudrakant Mishra](https://github.com/rudrakant20250043-lgtm) | 🚀Project Coordination & Core Logic |
+| <img src="https://github.com/rudrakant20250043-lgtm.png" width="50"> | [Rudrakant Mishra](https://github.com/rudrakant20250043-lgtm) | 🚀Project Lead & Core System Architecture |
 | <img src="https://github.com/vinsh111.png" width="50"> | **Vinsh Kushwaha** | 🛠️ Audio Extraction |
 | <img src="https://github.com/jeelamrutiya08.png" width="50"> | **Jeel Amrutiya** | 📡 Signal Processing |
 | <img src="https://github.com/HarshitRepswal.png" width="50"> | **Harshit Repswal** | 🧠 Model Integration (DeepFilterNet) |
