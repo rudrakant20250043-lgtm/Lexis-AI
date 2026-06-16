@@ -109,7 +109,7 @@ graph LR
 | <img src="https://github.com/jeelamrutiya08.png" width="50"> | **Jeel Amrutiya** | 📡 Signal Processing |
 | <img src="https://github.com/HarshitRepswal.png" width="50"> | **Harshit Repswal** | 🧠 Model Integration (DeepFilterNet) |
 | <img src="https://github.com/Swirlyswan248.png" width="50"> | **Manvi Singh** | 🎨 Frontend & UI Design (Streamlit)|
-| <img src="https://github.com/lalitbadera001.png" width="50"> | **Lalit Badera** | ⚙️ API Setup & Integration (FastAPI) |
+| <img src="https://github.com/lalitbadera001.png" width="50"> | **Lalit Badera** | ⚙️ Backend |
 ---
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
